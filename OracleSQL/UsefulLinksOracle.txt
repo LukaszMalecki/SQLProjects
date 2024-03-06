@@ -1,0 +1,6 @@
+https://livesql.oracle.com/
+
+https://www.oracletutorial.com/oracle-string-functions/ - m.in. regexp_replace
+https://www.oracletutorial.com/oracle-date-functions/ - extract, trunc
+https://www.oracletutorial.com/oracle-comparison-functions/oracle-decode/
+https://www.oracletutorial.com/oracle-basics/oracle-case/
